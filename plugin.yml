@@ -1,0 +1,24 @@
+name: AntiBug
+author: Emregg0
+version: 1.0
+main: me.plugin.main.Main
+commands:
+  abcommandlogger:
+  antibug:
+    aliases: [ab]
+  abcolor:
+  abstaffchat:
+    aliases: [absc]
+  abadminsword:
+  abpanic:
+  abspawn:
+  abeffect:
+  abgravityblock:
+    aliases: [abgb]
+  abtpbow:
+    aliases: [abtp]
+  abdebug:
+    aliases: [abdb] 
+  abc:
+    aliases: [antibugcheat] 
+  abmov:

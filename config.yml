@@ -1,0 +1,54 @@
+#----------------------------------------------------------------------------------#
+# Eklenti Yapımcısı discord: Emree#2023                                             #
+#                                                                                    #
+#------------------------------------------------------------------------------------#
+
+#	    __        ___	    ___   _____________	 |__|     
+#     / /\ \      |	  \        |     |   |____     ____|	 |	 | 
+# 	  / /  \ \     |     |\  \   |    |         |   |      	 |	 | 
+#   / /___\ \    |	   |  \  \  |    |         |   |   	  	 |	 |
+#  /_/      \_\   |__|     \  ___|         |__|       	 |__| 
+#				 	_______	     __           __ 	      _______  
+#				  |	|          \ \    | |            | |    / /			 \ \
+#				  |	|______ / /    | |            | |   | |         ____
+#				  |	|           \ \   | |  	        | |   | |			  | |
+#                | |_______/ /    \ \_______/ /     \  \________| |
+
+#----------------------------------------------------------------------------------#.                                      
+
+# Plugin calismasi icin lisans bilgilerine ihtiyac vardir
+Lisans: none
+
+# Giris Mesaji
+# Veri çekebileceğin komutlar : %oyuncu% 
+Giris_Mesaji:  '&3Bu sunucu  &f[&2&lAnti&a&lBug&f] &b >  &3tarafindan korunmaktadir! '
+Giris_Mesaji2: '&eDetaylı Bilgi icin &b/ab &eyazabilirsin.'
+
+#
+# *AntiHile *(Hile sistemi beta asamasindadir.)
+# 
+# AntiHile engelledigi hiller;
+#
+# NoSlowDown, Speed, Bhop, NormalMovements, Flight, Ice speed, Waterspeed, Reach, Wallhit, HitSpeed(KillAura, Macro), MultiAura(Coklu vurus)
+#
+AntiCheat: true
+
+# ChatColor Sistemi
+#
+# Aktifleştirirsen her oyuncu için \AntiBug\userdata oyuncu verileri depolanacaktır.
+#
+ChatColor: true
+
+#
+# Buglu komut engelleme
+#
+# Etkinleştirdiginizde Örn; /minecraft:me veya " : " içeren komutları engeller, Ayrıca /plugin ve EssentialsPowerTool Komutlarınıda engeller. / Opseniz komutu kullanan kişi mesaj ile size bildirilir.
+#
+BugluKomutEngelleyici: true
+
+#
+#AntiBot (Proxy Engelleyici)
+#
+# Etkinleştirildiğinde proxy kullanları kickler bi nevi antibot işlevi görür. / Kicklenen kişileri op iseniz isim ve ip ile size mesaj olarak atılır.
+#
+ProxyEngelleyici: true
