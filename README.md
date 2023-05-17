@@ -47,4 +47,4 @@ Anti cheat is very successful in combat detection, but movement detection needs 
     
  
  # To contact
- Discord: Emree#2023
+ Discord: Emree#2000
